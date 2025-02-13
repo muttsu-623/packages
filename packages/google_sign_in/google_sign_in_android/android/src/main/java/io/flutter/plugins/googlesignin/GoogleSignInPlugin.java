@@ -31,7 +31,7 @@ import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding;
 import io.flutter.plugin.common.BinaryMessenger;
-import io.flutter.plugin.common.PluginRegistry;
+import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.plugins.googlesignin.Messages.FlutterError;
 import io.flutter.plugins.googlesignin.Messages.GoogleSignInApi;
 import java.util.ArrayList;
